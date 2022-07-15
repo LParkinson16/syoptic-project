@@ -1,0 +1,204 @@
+/* You can add global styles to this file, and also import other style files */
+
+#itemCard {
+    margin-top: 4em;
+    background: #fff;
+    position: relative;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left: 2%;
+    width: 22%;
+    color: #333;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25)
+}
+
+
+#itemCard {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.menuCard {
+    justify-content: center;
+    align-items: center;
+    width: 22%;
+    display: inline-flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 4em;
+    margin-left: 8%;
+}
+
+#title {
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+#itemTitle {
+    text-align: center;
+    padding-top: 1.5em;
+    color: #fff;
+}
+
+#subtitle {
+    font-family: 'Indie Flower', cursive;
+}
+
+
+.App {
+    justify-content: center;
+    background-color: #333;
+}
+
+.headTextContainer {
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+    color: #fff;
+}
+
+#footer {
+    background-color: rgb(85, 85, 85);
+    color: #fff;
+    width: auto;
+    min-height: 20rem;
+    margin-top: 15em;
+}
+
+#navigation {
+    padding: 1em;
+    margin-bottom: 3em;
+    height: 4em;
+    background-color: rgb(85, 85, 85);
+}
+
+.navLinks {
+    display: inline;
+    flex-direction: column;
+    color: white;
+    margin-left: 2em;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.li {
+    display: inline;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.imageList {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8em;
+}
+
+#homePageText {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    background-color: antiquewhite;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 2em;
+}
+
+#homePageCard {
+    background-color: white;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slide {
+    margin-top: 30%;
+    opacity: 0;
+    transition-duration: 1s ease;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slide.active {
+    opacity: 1;
+    transition-duration: 1s;
+    transform: scale(1.08)
+}
+
+.slider {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.imageSlide img {
+    width: 65em;
+    height: 45em;
+    border-radius: 1%;
+
+}
+
+.slider {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.leftArrow {
+    position: absolute;
+    top: 50%;
+    left: 32px;
+    font-size: 3rem;
+    color: #000;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+}
+
+.rightArrow {
+    position: absolute;
+    top: 50%;
+    right: 32px;
+    font-size: 3rem;
+    color: #000;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+}
+
+#authenticBbq {
+    color: rgb(255, 0, 0);
+    font-family: 'Indie Flower', cursive;
+}
+
+#itemList{
+    margin-left: 14%;
+    margin-right: auto;
+}
+
+#reviews {
+    display: flex;
+    flex-direction: row;
+}
+
+#reviewOne {
+    float: right;
+    /* margin-right:20% */
+}
+
+#reviewTwo {
+    float: left;
+    /* margin-right:20% */
+}
+
+#reviewThree {
+    float: right;
+    /* margin-right:20% */
+}

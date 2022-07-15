@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "image":"images/kintan1.jpeg"
+    },
+    {
+        "id":2,
+        "image":"images/kintan2.jpeg"
+    },
+    {
+        "id":3,
+        "image":"images/kintan3.jpeg"
+    },
+    {
+        "id":4,
+        "image":"images/kintan1.jpeg"
+    },
+    {
+        "id":5,
+        "image":"images/fleshbuns2.jpeg"
+    },
+    {
+        "id":6,
+        "image":"images/fleshbuns3.jpeg"
+    }
+]

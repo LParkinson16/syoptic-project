@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "restaurant-template": "apps/restaurant-template",
+    "restaurant-template-e2e": "apps/restaurant-template-e2e"
+  }
+}

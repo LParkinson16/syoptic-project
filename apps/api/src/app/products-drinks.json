@@ -1,0 +1,58 @@
+[
+    {
+        "name": "hot-sake",
+        "id": "10",
+        "price": "7.00",
+        "volume": "19",
+        "measurements": "300"
+    },
+    {
+        "name": "Funugachi Kikusui",
+        "id": "11",
+        "price": "7.00",
+        "volume": "19",
+        "measurements": "300"
+    },
+    {
+        "name": "Fess Parker",
+        "id": "12",
+        "price": "88.00",
+        "volume": "18",
+        "measurements": "750"
+    },
+    {
+        "name": "rose",
+        "id": "13",
+        "price": "90.00",
+        "volume": "19",
+        "measurements": "750"
+    },
+    {
+        "name": "Asahi",
+        "id": "14",
+        "price": "7.00",
+        "volume": "5",
+        "measurements": "Pint"
+    },
+    {
+        "name": "erdinger",
+        "id": "15",
+        "price": "8.00",
+        "volume": "7",
+        "measurements": "Pint"
+    },
+    {
+        "name": "Beer: non-alcoholic",
+        "id": "16",
+        "price": "4.00",
+        "volume": "0",
+        "measurements": "300"
+    },
+    {
+        "name": "water",
+        "id": "17",
+        "price": "0.00",
+        "volume": "0",
+        "measurements": "300"
+    }
+]

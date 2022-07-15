@@ -1,0 +1,20 @@
+type Set{
+    id: String!
+    name: String!
+    description: String!
+    allergens: String
+    price: String!
+    image: String
+}
+
+type Query {
+    allSets:[Set]
+}
+
+type Mutation {
+    addSet(name: String, description: String, allergens: String, price:String, image: String): Set
+}
+
+type Mutation{
+    changePrice(id:String, price:String):Set
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "id":"1",
+        "name":"Sushi-selection",
+        "description":"A collection of Maki, Onigiri and traditional Japanese sushi featuring the freshest ingreidents",
+        "allergens":"crustaceans",
+        "price":"12.50",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"2",
+        "name":"Katsu curry",
+        "description":"crispy fried cutlet of meat or seafood made with flaky Japanese panko breadcrumbs",
+        "allergens":"None",
+        "price":"6.80",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"3",
+        "name":"Takoyaki",
+        "description":"translates to grilled octopus, refers to the savory dish of grilled balls of batter made with flour and eggs filled with octopus chunks and other ingredients like pickled ginger",
+        "allergens":"None",
+        "price":"5.00",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"4",
+        "name":"Ramen",
+        "description":" noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables",
+        "allergens":"None",
+        "price":"9.00",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"5",
+        "name":"Wagyu steak",
+        "description":"Wagyu beef is distinctive because it is highly marbled. Marbling refers to the visible layers of intramuscular fat. This is fat that is found in the muscle. Due to the unique genetics of the cows, the meat contains a higher percentage of fatty acids than ordinary beef, giving it a higher marbling score",
+        "allergens":"None",
+        "price":"75.00",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"6",
+        "name":"Kobe steak",
+        "description":"Wagyu beef from the Tajima strain of Japanese Black cattle, raised in Japan's Hyōgo Prefecture according to rules set out by the Kobe Beef Marketing and Distribution Promotion Association. The meat is a delicacy, valued for its flavor, tenderness, and fatty, well-marbled texture.",
+        "allergens":"None",
+        "price":"60.00",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"7",
+        "name":"Onigiri",
+        "description":"rice balls made of steamed rice usually wrapped in nori seaweed sheet. They can be flavored lightly with just salt or filled with a variety of fillings",
+        "allergens":"None",
+        "price":"3.00",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"8",
+        "name":"Karaage",
+        "description":"deep-fried dish where a protein or vegetable is coated in potato starch and deep-fried until crisp",
+        "allergens":"None",
+        "price":"6.00",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    },
+    {
+        "id":"9",
+        "name":"Maki",
+        "description":"old boiled rice moistened with rice vinegar, formed around strips of vegetable or raw fish into a cylindrical seaweed-wrapped roll that is sliced into bite-size pieces",
+        "allergens":"None",
+        "price":"4.00",
+        "image":"https://media.istockphoto.com/photos/japanese-restaurant-sushi-dish-picture-id497022342?k=20&m=497022342&s=612x612&w=0&h=VkCoBfI4q67KiRfyIJ-bQx3S1EyjTfEWL2DtP9Ird-0="
+        
+    }
+]
